@@ -3,7 +3,7 @@ import torch.nn as nn
 import torch.optim as optim
 from sklearn.feature_extraction.text import TfidfVectorizer
 import numpy as np
-
+ 
 # Simple dataset
 data = [
     ("Win a free iPhone! Click now!", 1),
